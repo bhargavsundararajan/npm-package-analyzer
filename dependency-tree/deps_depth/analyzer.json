@@ -1,0 +1,15 @@
+{
+    "analyzer_name": "ecs260-43/deps_depth",
+    "author_name": "Bhargav",
+    "author_email": "bsundararajan@ucdavis.edu",
+    "version": "0.7.0",
+    "spec_version": "1.2.0",
+    "dependencies": {
+        "public/source-code": "*"
+    },
+    "type": "commit",
+    "output": {
+        "type": "json"
+    },
+    "deterministic": true
+}
